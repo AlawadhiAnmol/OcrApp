@@ -5,3 +5,8 @@ Steps to Follow
 
 2. Run the python code
 python3 ocrApp.pt "pathToImgFile"
+
+
+
+
+Refer : https://github.com/JaidedAI/EasyOCR
